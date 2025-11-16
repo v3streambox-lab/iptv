@@ -1,0 +1,112 @@
+#EXTM3U
+
+##############
+# 📺 Saluran Tempatan
+##############
+#EXTINF:-1 tvg-id="tv1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/TV1_%28Malaysia%29_logo.svg" group-title="Tempatan",TV1
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="tv2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TV2_%28Malaysia%29_logo.svg" group-title="Tempatan",TV2
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/TV3_Malaysia_logo_2021.svg" group-title="Tempatan",TV3
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="8tv.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/8TV_Logo_2020.png" group-title="Tempatan",8TV
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="tv9.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/TV9_Malaysia_logo_2021.svg" group-title="Tempatan",TV9
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="awesometv.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Awesome_TV_logo.png" group-title="Tempatan",Awesome TV
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="bernama.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Bernama_TV_logo.png" group-title="Tempatan",Bernama TV
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="tvokey.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/TV_Okey_logo.png" group-title="Tempatan",TV Okey
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+##############
+# 🌟 Saluran Astro
+##############
+#EXTINF:-1 tvg-id="astro-ria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Astro_Ria_2020.png" group-title="Astro",Astro Ria
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-citra.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Astro_Citra_2021.png" group-title="Astro",Astro Citra
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-prima.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Astro_Prima.png" group-title="Astro",Astro Prima
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-war.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Astro_Warna_Logo.png" group-title="Astro",Astro Warna
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-arena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Astro_Arena_logo.png" group-title="Sukan",Astro Arena
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-super-sport.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Astro_SuperSport_logo.png" group-title="Sukan",Astro SuperSport
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-ceria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Astro_Ceria.png" group-title="Kanak-kanak",Astro Ceria
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-aec.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Astro_AEC_Logo.png" group-title="Astro",Astro AEC
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="astro-awo.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Astro_Awesome_Logo.png" group-title="Astro",Astro Awesome
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+##############
+# 🎬 Filem & Hiburan
+##############
+#EXTINF:-1 tvg-id="hbo.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Logo.svg" group-title="Filem",HBO
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="cinemax.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Cinemax_2016_logo.svg" group-title="Filem",Cinemax
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="axn.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/AXN_logo_2016.svg" group-title="Filem",AXN
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="foxmovies.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Fox_Movies_logo.png" group-title="Filem",FOX Movies
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+##############
+# 🧒 Kanak-kanak
+##############
+#EXTINF:-1 tvg-id="cartoonnetwork.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Cartoon_Network_2010_logo.svg" group-title="Kanak-kanak",Cartoon Network
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="nickelodeon.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Nickelodeon_2023_logo.svg" group-title="Kanak-kanak",Nickelodeon
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="disneychannel.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Disney_Channel_2022_logo.svg" group-title="Kanak-kanak",Disney Channel
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+##############
+# 🌍 Antarabangsa
+##############
+#EXTINF:-1 tvg-id="cnn.international" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="Antarabangsa",CNN International
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="bbcworld.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/BBC_World_News_2022.svg" group-title="Antarabangsa",BBC World News
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="natgeo.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/National_Geographic_Channel.svg" group-title="Antarabangsa",National Geographic
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+##############
+# 📻 Radio Malaysia
+##############
+#EXTINF:-1 tvg-id="hotfm.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Hot_FM_logo_2018.png" group-title="Radio",Hot FM
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="era.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Era_logo_2021.png" group-title="Radio",ERA
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="sinar.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sinar_FM_logo_2021.png" group-title="Radio",Sinar
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
+
+#EXTINF:-1 tvg-id="hitz.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Hitz_FM_logo_2021.png" group-title="Radio",Hitz
+https://drive.google.com/uc?export=download&id=1dXuhM5Y38x7qQPC3uMoNdCyzP7_dSIEJ
